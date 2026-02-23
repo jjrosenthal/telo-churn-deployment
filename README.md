@@ -1,1 +1,1 @@
-# telo-churn-deployment
+# telco-churn-deployment
